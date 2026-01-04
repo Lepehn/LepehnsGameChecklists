@@ -1,4 +1,4 @@
-# LepehnsGameChecklists
+# Lepehn's Game Checklists
 
 - [Alan Wake II Checklist - Not Fully Complete](https://lepehn.github.io/alan-wake-2-checklist/)
 - [Atomic Heart Checklist](https://lepehn.github.io/atomic-heart-checklist)
