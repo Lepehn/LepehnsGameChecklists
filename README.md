@@ -1,8 +1,27 @@
 # Lepehn's Game Checklists
 
-- [Alan Wake II Checklist - Not Fully Complete](https://lepehn.github.io/alan-wake-2-checklist/)
-- [Atomic Heart Checklist](https://lepehn.github.io/atomic-heart-checklist)
-- [Bloodborne Checklist](https://lepehn.github.io/bloodborne-checklist/)
-- [Lies of P Checklist](https://lepehn.github.io/lies-of-p-checklist/)
-- [Stellar Blade Checklist - Not Fully Complete](https://lepehn.github.io/stellar-blade-checklist/)
-- [The Elder Scrolls V: Skyrim Checklist](https://lepehn.github.io/the-elder-scrolls-skyrim-checklist/)
+- Finished
+  - [Atomic Heart Checklist](https://lepehn.github.io/atomic-heart-checklist)
+  - [Bloodborne Checklist](https://lepehn.github.io/bloodborne-checklist/)
+  - [Lies of P Checklist](https://lepehn.github.io/lies-of-p-checklist/)
+- Updating
+  - [Alan Wake II Checklist - Not Fully Complete](https://lepehn.github.io/alan-wake-2-checklist/)
+  - [Stellar Blade Checklist - Not Fully Complete](https://lepehn.github.io/stellar-blade-checklist/)
+  - [The Elder Scrolls V: Skyrim Checklist](https://lepehn.github.io/the-elder-scrolls-skyrim-checklist/)
+- Planned
+  - Black Myth: Wukong
+  - Cyberpunk 2077
+  - Dark Souls
+  - Dark Souls II
+  - Dark Souls III
+  - Fallout 3
+  - Fallout 4
+  - Fallout: New Vegas
+  - Hogwarts Legacy
+  - Horizon Zero Dawn
+  - Horizon Forbidden West
+  - Sons of the Forest
+  - Starfield
+  - The Forest
+  - The Elder Scrolls III: Morrowind
+  - The Elder Scrolls IV: Oblivion
